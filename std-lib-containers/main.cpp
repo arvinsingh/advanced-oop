@@ -1,3 +1,13 @@
+// -----------------------------------------------------
+// 
+// (c) Martin Porcheron
+//     Thomas Reitmaier
+//     thomas.reitmaier@swansea.ac.uk
+// Modified by Arvin Singh
+// -----------------------------------------------------
+
+
+
 #include <iostream>
 #include <set>
 #include <unordered_set>
